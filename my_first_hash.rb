@@ -1,5 +1,5 @@
 def my_hash
-  Hash.new = {"me" => "fez", "not-me" => "bob"}
+  hasheroo = {"me" => "fez", "not-me" => "bob"}
 end
 
 
